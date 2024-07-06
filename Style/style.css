@@ -49,6 +49,11 @@ nav div a{
     place-items: center;
     padding: 0px 10px;
 }
+nav div a:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
 .SecOne{
     width: 100vw;
     height: 100dvh;

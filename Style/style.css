@@ -48,6 +48,7 @@ nav ul li{
     background-attachment: fixed; 
     display: grid;
     place-items: center;
+    background-repeat: none;
 
 }
 .SecOne main{
